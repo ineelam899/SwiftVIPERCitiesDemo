@@ -25,3 +25,9 @@ An example cities list app written in Swift using VIPER architecture.
 3. pod install
 4. Open SwiftVIPERCitiesDemo.xcworkspace in Xcode.
 5. Run
+
+# Author
+Neelam Shehzadi
+
+# License
+SwiftVIPERCitiesDemo is available under the MIT license. See the LICENSE file for more info.
