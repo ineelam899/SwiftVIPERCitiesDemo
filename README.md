@@ -1,10 +1,9 @@
 # SwiftVIPERCitiesDemo
 
-VIPER CITIES DEMO
-
-World Cities JSON
+# World Cities JSON
 world-cities.json file has been taken from https://datahub.io/core/world-cities#data
 
+# VIPER CITIES DEMO
 An example cities list app written in Swift using VIPER architecture.
 
 View - Responsibility of view is to send user actions to the presenter and show whatever the presenter asks it to.
@@ -13,7 +12,7 @@ Presenter - Contains the view logic for preparing content for display and for re
 Entity - The basic model for objects used by interaction.
 Router - Contains logic for routing of screens.
 
-Run Demo 
+# Run Demo 
 1. git clone https://github.com/ineelam899/SwiftVIPERCitiesDemo.git
 2. cd SwiftVIPERCitiesDemo
 3. pod install
