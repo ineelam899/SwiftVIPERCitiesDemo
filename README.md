@@ -1,6 +1,6 @@
 # SwiftVIPERCitiesDemo
 
-# World Cities JSON
+World Cities JSON
 world-cities.json file has been taken from https://datahub.io/core/world-cities#data
 
 ![Screenshot](screenshot.png)
